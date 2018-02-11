@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AppiumSample.calculatorAppTest.CalculatorAppTest" duration-ms="20142" started-at="2018-02-11T09:00:56Z" finished-at="2018-02-11T09:01:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20142" started-at="2018-02-11T09:00:56Z" finished-at="2018-02-11T09:01:16Z">
+      <class name="AppiumSample.calculatorAppTest.CalculatorAppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AppiumSample.calculatorAppTest.CalculatorAppTest@5c7fa833]" name="setUp" is-config="true" duration-ms="10874" started-at="2018-02-11T14:30:56Z" finished-at="2018-02-11T14:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="calculatorTest()[pri:0, instance:AppiumSample.calculatorAppTest.CalculatorAppTest@5c7fa833]" name="calculatorTest" duration-ms="7161" started-at="2018-02-11T14:31:07Z" finished-at="2018-02-11T14:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatorTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AppiumSample.calculatorAppTest.CalculatorAppTest@5c7fa833]" name="tearDown" is-config="true" duration-ms="2097" started-at="2018-02-11T14:31:14Z" finished-at="2018-02-11T14:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AppiumSample.calculatorAppTest.CalculatorAppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- AppiumSample.calculatorAppTest.CalculatorAppTest -->
+</testng-results>
